@@ -11,7 +11,7 @@
 # 🏴‍☠️ Hey there, I'm JP Prakash
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Frontend+Developer;JavaScript+%2F+Node.js+Enthusiast;React+%7C+Electron+%7C+Express;Sailing+the+Grand+Line+of+Code+%E2%9A%93" alt="Typing SVG" />
+	<img src="https://raw.githubusercontent.com/Prakash996/Prakash996/output/going-merry.svg" width="100%" />  
 </a>
 
 <br/><br/>
@@ -21,9 +21,9 @@
 <img src="https://komarev.com/ghpvc/?username=Prakash996&label=Profile+Views&style=for-the-badge&color=FF8C00&labelColor=1a1a1a" />
 <img src="https://img.shields.io/badge/dynamic/json?color=FF8C00&labelColor=1a1a1a&style=for-the-badge&label=Coffees%20Brewed&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fprakash996%2Fcoffee" />
 
-<br/><br/>
+<br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+<img src="https://raw.githubusercontent.com/Prakash996/Prakash996/output/going-merry.svg" width="100%" />
 
 </div>
 
