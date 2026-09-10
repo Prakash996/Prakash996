@@ -1,4 +1,3 @@
-```python
 from pathlib import Path
 
 # Output location
@@ -115,4 +114,3 @@ svg = """<svg
 OUTPUT.write_text(svg, encoding="utf-8")
 
 print(f"Generated: {OUTPUT}")
-```
