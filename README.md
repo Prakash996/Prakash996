@@ -8,7 +8,7 @@
 
 <p>
   <img
-    src="./assets/one-piece-profile-bg.png"
+    src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/output/going-merry.svg"
     width="100%"
     alt="Developer inspired background"
   />
