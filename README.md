@@ -97,42 +97,42 @@
 <table border="0" width="100%">
 <tr>
   <td width="30%"><b>Frontend</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-frontend.svg" width="100%"/></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-frontend.svg" width="100%"/></td>
   <td align="right">95%</td>
 </tr>
 <tr>
   <td><b>React</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-react.svg" width="100%"/></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-react.svg" width="100%"/></td>
   <td align="right">90%</td>
 </tr>
 <tr>
   <td><b>JavaScript</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-javascript.svg" width="100%"/></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-javascript.svg" width="100%"/></td>
   <td align="right">95%</td>
 </tr>
 <tr>
   <td><b>TypeScript</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-typescript.svg" width="100%"/></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-typescript.svg" width="100%"/></td>
   <td align="right">80%</td>
 </tr>
 <tr>
   <td><b>UI Engineering</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-ui.svg" width="100%"/></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-ui.svg" width="100%"/></td>
   <td align="right">90%</td>
 </tr>
 <tr>
   <td><b>Automation</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-automation.svg" width="100%"/></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-automation.svg" width="100%"/></td>
   <td align="right">85%</td>
 </tr>
 <tr>
   <td><b>Problem Solving</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-problemsolving.svg" width="100%"/></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-problemsolving.svg" width="100%"/></td>
   <td align="right">90%</td>
 </tr>
 <tr>
   <td><b>Learning</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-learning.svg" width="100%"/></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-learning.svg" width="100%"/></td>
   <td align="right">100%</td>
 </tr>
 </table>
