@@ -1,316 +1,258 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║                  JP PRAKASH — SYSTEM PROFILE                       ║
-║              Comic / Action Manhwa System UI Theme                 ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-  <!-- ========================= HEADER ========================= -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/banner-light.png">
+  <img alt="Banner" src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/banner-light.png" width="100%">
+</picture>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:111116,50:241044,100:06B6D4&text=SYSTEM%20ONLINE&fontColor=FFFFFF&fontSize=52&fontAlignY=42&desc=THE%20HUNTER%20HAS%20ENTERED%20THE%20CODEBASE&descAlignY=62&descSize=16&animation=fadeIn">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0F14,50:5B21B6,100:0891B2&text=SYSTEM%20ONLINE&fontColor=FFFFFF&fontSize=52&fontAlignY=42&desc=THE%20HUNTER%20HAS%20ENTERED%20THE%20CODEBASE&descAlignY=62&descSize=16&animation=fadeIn">
-    <img alt="Action Manhwa System UI Banner" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:111116,50:241044,100:06B6D4&text=SYSTEM%20ONLINE&fontColor=FFFFFF&fontSize=52&fontAlignY=42&desc=THE%20HUNTER%20HAS%20ENTERED%20THE%20CODEBASE&descAlignY=62&descSize=16&animation=fadeIn">
-  </picture>
+<br/>
 
-  <h1>⚡ Hey there, I'm JP Prakash</h1>
+# 🏴‍☠️ Hey there, I'm JP Prakash
 
-  <p>
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+Frontend+Developer+initialized...;%3E+React.js+%7C+Next.js+%7C+JavaScript+%7C+TypeScript;%3E+Building+clean%2C+scalable+UI+systems...;%3E+%5BSTATUS%5D+LEVELING+UP+EVERY+DAY+%E2%9A%94"
-      alt="System typing animation"
-    />
-  </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Frontend+Developer;JavaScript+%2F+Node.js+Enthusiast;React+%7C+Electron+%7C+Express;Sailing+the+Grand+Line+of+Code+%E2%9A%93" alt="Typing SVG" />
+</a>
 
-  <p>
-    <img src="https://img.shields.io/github/followers/Prakash996?style=flat-square&logo=github&logoColor=FFFFFF&label=FOLLOWERS&labelColor=111116&color=8B5CF6" alt="GitHub Followers">
-    <img src="https://img.shields.io/github/stars/Prakash996?style=flat-square&logo=github&logoColor=FFFFFF&label=STARS&labelColor=111116&color=8B5CF6" alt="GitHub Stars">
-    <img src="https://komarev.com/ghpvc/?username=Prakash996&style=flat-square&label=PROFILE+VIEWS&color=8B5CF6&labelColor=111116" alt="Profile Views">
-  </p>
+<br/><br/>
 
-  <p>
-    <samp>
-      ▰ SYSTEM ID: JP-PRAKASH &nbsp;|&nbsp;
-      ▰ CLASS: FRONTEND DEVELOPER &nbsp;|&nbsp;
-      ▰ STATUS: ACTIVE
-    </samp>
-  </p>
+<img src="https://img.shields.io/github/followers/Prakash996?label=Followers&style=for-the-badge&color=FF8C00&labelColor=1a1a1a" />
+<img src="https://img.shields.io/github/stars/Prakash996?label=Stars&style=for-the-badge&color=FF8C00&labelColor=1a1a1a" />
+<img src="https://komarev.com/ghpvc/?username=Prakash996&label=Profile+Views&style=for-the-badge&color=FF8C00&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/dynamic/json?color=FF8C00&labelColor=1a1a1a&style=for-the-badge&label=Coffees%20Brewed&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fprakash996%2Fcoffee" />
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
 
 </div>
 
----
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,100:1a1a1a&height=2&width=1000" />
+</div>
 
-## 🧬 CHARACTER STATUS
+<br/>
 
-<table border="0" width="90%" cellpadding="18" cellspacing="0">
+## 🧑‍💻 About Me
+
+<table>
 <tr>
-<td width="65%" valign="middle">
+<td width="65%" valign="top">
 
-### ⚔️ Character Attributes
+Hi! I'm **JP Prakash**, a Software Engineer based in India who treats every codebase like a ship worth sailing well — clean, sturdy, and built to last the voyage. ⛵
 
-- 🧑‍💻 **Class:** Frontend Developer
-- ⚡ **Primary Power:** JavaScript / React.js / TypeScript
-- 🧩 **Specialization:** UI Development & Component Architecture
-- 🚀 **Current Quest:** Next.js, Redux & Modern Frontend Architecture
-- 🛠️ **Weapon Set:** React, Angular, Node.js, REST APIs
-- 🧪 **Testing Skills:** Selenium, Mocha, TestNG, E2E Automation
-- 🔧 **Engineering Focus:** Performance, UI Stability & Maintainability
-- 📈 **Passive Skill:** Continuous Learning
-- 🎯 **Mission:** Build scalable, performant and user-focused interfaces
+```javascript
+const jpPrakash = {
+  role: "Software Engineer",
+  focus: ["Frontend Development", "JavaScript", "Node.js"],
+  stack: ["React.js", "Electron.js", "Express.js"],
+  currentlyExploring: "Next.js & Redux",
+  motto: "Ship it clean, ship it once."
+};
+```
 
-<br>
-
-> <samp>⚠ SYSTEM MESSAGE: EXPERIENCE + CURIOSITY = UNLOCKED POTENTIAL</samp>
+- 🔭 Currently building **frontend platforms** with **React.js**, **Electron.js**, and **Express.js**
+- 🌱 Deepening my knowledge of **Next.js** and **Redux** through hands-on projects
+- ⚙️ Comfortable across the stack — from **UI engineering** to **CI/CD** and **test automation**
+- 🛠️ Daily tools: **Git**, **Jenkins**, **Jira**, **VS Code**
+- 🧭 Believer in pixel-perfect UIs and battle-tested pipelines
+- 📫 Always up for a good engineering conversation — my crew is always recruiting!
 
 </td>
+<td width="35%" valign="top" align="center">
 
-<td width="35%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/profile-illustration.png" width="100%" style="border-radius: 16px;" />
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rounded&height=260&color=0:111116,100:241044&text=JP%20%2F%2F%20PRK&fontColor=FFFFFF&fontSize=28&desc=FRONTEND%20HUNTER&descSize=13&descAlignY=72"
-  alt="JP Prakash System Avatar"
-  width="100%"
-/>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1200&color=F9D849&center=true&vCenter=true&width=280&lines=%22I'm+gonna+be...%22;%22King+of+the+Frontend!%22" />
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:FF8C00&height=2&width=1000" />
 </div>
 
----
+<br/>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-## 🎮 CLASS ABILITIES
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,express,html,css,electron,angular,java,mysql,sqlite,git,github,jenkins,eclipse,vscode&theme=dark" />
 
-<p>
-  <samp>╔════════════════════ HUNTER'S SKILL LEDGER ════════════════════╗</samp>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,angular,nodejs,express,electron,jquery,bootstrap,webpack&theme=dark&perline=7" alt="Frontend Skills">
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,jenkins,jest,selenium,mysql,sqlite,vscode,idea,figma&theme=dark&perline=7" alt="Developer Tools and Technologies">
-</p>
-
-<p>
-  <samp>╚═══════════════════════════════════════════════════════════════╝</samp>
-</p>
-
-<table border="0" cellpadding="8" cellspacing="0">
-<tr>
-<td align="center">
-
-**⚡ FRONTEND**
-
-`JavaScript` · `TypeScript` · `React.js` · `Next.js`  
-`HTML5` · `CSS3` · `Bootstrap` · `jQuery`  
-`Responsive Web Design`
-
-</td>
-<td align="center">
-
-**🔥 STATE & ARCHITECTURE**
-
-`Redux` · `Context API` · `React Hooks`  
-`REST APIs` · `Component Architecture`  
-`Performance Optimization`
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**🧪 TESTING**
-
-`Selenium` · `Mocha` · `TestNG`  
-`E2E Automation` · `UI Automation`
-
-</td>
-<td align="center">
-
-**🛠️ ENGINEERING**
-
-`Git` · `GitHub` · `Jenkins` · `Jira`  
-`Node.js` · `Express.js` · `MySQL` · `SQLite`
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/-Test%20Automation-1A73BA?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/-Selenium-DF1C24?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/-Mocha-F9D849?style=for-the-badge&logo=mocha&logoColor=black" />
+<img src="https://img.shields.io/badge/-CI%2FCD-1A73BA?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,100:1a1a1a&height=2&width=1000" />
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-## 📊 MANHWA SYSTEM ANALYTICS
+<img src="https://github-readme-stats.vercel.app/api?username=Prakash996&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DF1C24&icon_color=F9D849&text_color=1A73BA" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakash996&theme=radical&hide_border=true&background=0D1117&ring=DF1C24&fire=F9D849&currStreakLabel=1A73BA" width="48%" />
 
-<p>
-  <samp>╔═══════════════ PLAYER PERFORMANCE MONITOR ═══════════════╗</samp>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Prakash996&theme=tokyonight&hide_border=true&background=111116&ring=A855F7&fire=06B6D4&currStreakLabel=A855F7&sideLabels=06B6D4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B5CF6"
-    alt="GitHub Streak Stats"
-    width="49%"
-  />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakash996&theme=react-dark&hide_border=true&bg_color=0D1117&color=1A73BA&line=DF1C24&point=F9D849" width="97%" />
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Prakash996&bg_color=111116&color=06B6D4&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY%20GRAPH"
-    alt="GitHub Activity Graph"
-    width="95%"
-  />
-</p>
+<br/><br/>
 
-<p>
-  <samp>╚═══════════════════════════════════════════════════════════╝</samp>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Prakash996&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="97%" />
 
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:FF8C00&height=2&width=1000" />
+</div>
+
+<br/>
+
+## 🏴‍☠️ Going Merry — Contribution Tracker
 
 <div align="center">
 
-## 🎯 DAILY QUEST PROGRESS TRACKER
+<!--START_SECTION:going-merry-->
+<img src="https://raw.githubusercontent.com/Prakash996/Prakash996/output/going-merry.svg" alt="Going Merry sailing across the contribution ocean" width="100%" />
+<!--END_SECTION:going-merry-->
 
-<p>
-  <samp>
-    ┌────────────────────────────────────────────────────────────┐<br>
-    │ QUEST TYPE &nbsp;&nbsp;: DAILY CONTRIBUTION                  │<br>
-    │ TARGET &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: WRITE • BUILD • COMMIT │<br>
-    │ REWARD &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: EXP + SKILL POINTS    │<br>
-    │ STATUS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: TRACKING              │<br>
-    └────────────────────────────────────────────────────────────┘
-  </samp>
-</p>
-
-<!--
-  Recommended GitHub Action:
-  https://github.com/marketplace/actions/profile-3d-contrib
-
-  Add the generated contribution image to:
-  profile-3d-contrib/profile-night-rainbow.svg
-
-  The workflow should run daily using GitHub Actions.
--->
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/profile-3d-contrib/profile-night-rainbow.svg"
-    alt="GitHub Daily Quest Contribution Tracker"
-    width="95%"
-  />
-</p>
-
-<p>
-  <samp>⚠️ [DAILY QUEST: COMMIT TO THE CORE COMPLETED]</samp>
-</p>
+<sub>⛵ The Going Merry sails a little further with every commit — pixel waves, a sunny sky, and a flag that never stops flying. Powered by a scheduled GitHub Action.</sub>
 
 </div>
 
----
+<details>
+<summary align="center"><b>⚙️ Automation Workflow (click to expand)</b></summary>
+
+```yaml
+name: Going Merry Contribution Tracker
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Going Merry Animation
+        uses: Prakash996/going-merry-contribution-action@v1
+        with:
+          github_user_name: Prakash996
+          svg_out_path: output/going-merry.svg
+          sea_color: "#1A73BA"
+          sun_color: "#F9D849"
+          ship_flag_color: "#DF1C24"
+          wave_speed: "medium"
+          pixel_style: true
+
+      - name: Push SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ "{{ secrets.GITHUB_TOKEN }}" }}
+```
+
+</details>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,100:1a1a1a&height=2&width=1000" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-## 🧠 ACTIVE QUESTS
-
-<table border="0" width="85%" cellpadding="10" cellspacing="0">
-<tr>
-<td align="center">
-
-### ⚔️ QUEST 01
-**Master Modern React**
-
-`Hooks` → `Redux` → `Next.js`
-
-</td>
-<td align="center">
-
-### ⚡ QUEST 02
-**Level Up Architecture**
-
-`Scalability` → `Performance` → `Clean UI`
-
-</td>
-<td align="center">
-
-### 🔥 QUEST 03
-**AI + Frontend**
-
-`AI Tools` → `Automation` → `Developer Productivity`
-
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prakash996/Prakash996/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prakash996/Prakash996/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/Prakash996/Prakash996/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:FF8C00&height=2&width=1000" />
+</div>
+
+<br/>
+
+## 💬 Random Dev Wisdom
 
 <div align="center">
 
-## 🌐 CONNECT WITH ME
-
-<p>
-  <a href="https://www.linkedin.com/in/Prakash996">
-    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=FFFFFF&labelColor=8B5CF6" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/Prakash996">
-    <img src="https://img.shields.io/badge/X-8B5CF6?style=flat-square&logo=x&logoColor=FFFFFF&labelColor=8B5CF6" alt="X">
-  </a>
-  <a href="https://www.instagram.com/Prakash996">
-    <img src="https://img.shields.io/badge/Instagram-8B5CF6?style=flat-square&logo=instagram&logoColor=FFFFFF&labelColor=8B5CF6" alt="Instagram">
-  </a>
-  <a href="https://www.youtube.com/@Prakash996">
-    <img src="https://img.shields.io/badge/YouTube-8B5CF6?style=flat-square&logo=youtube&logoColor=FFFFFF&labelColor=8B5CF6" alt="YouTube">
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-8B5CF6?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=8B5CF6" alt="Email">
-  </a>
-</p>
-
-<p>
-  <samp>
-    「 EVERY COMMIT IS EXPERIENCE. EVERY BUG IS EXP. EVERY PROJECT IS A LEVEL UP. 」
-  </samp>
-</p>
+![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false&color=0D1117)
 
 </div>
 
----
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8C00,100:1a1a1a&height=2&width=1000" />
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-<!-- ========================= FOOTER ========================= -->
+<a href="https://linkedin.com/in/prakash996" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/prakash996" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://instagram.com/prakash996" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://youtube.com/@prakash996" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="mailto:prakash996@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:06B6D4,50:8B5CF6,100:111116&text=QUEST%20COMPLETED&fontColor=FFFFFF&fontSize=38&fontAlignY=58&desc=NEW%20QUEST%20AVAILABLE...&descSize=14&descAlignY=78"
-  alt="Quest Completed Footer"
-  width="100%"
-/>
+<br/><br/>
 
-<p>
-  <samp>
-    SYSTEM STATUS: <b>ONLINE</b> &nbsp;•&nbsp;
-    XP: <b>INCREASING</b> &nbsp;•&nbsp;
-    NEXT LEVEL: <b>IN PROGRESS</b>
-  </samp>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=1A73BA&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+my+ship!+%E2%9A%93;Let's+build+something+great+together." />
 
-<p>
-  <sub>⚡ Built with code • powered by curiosity • designed for the next level ⚡</sub>
-</p>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
