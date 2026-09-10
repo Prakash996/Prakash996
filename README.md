@@ -96,36 +96,44 @@
 
 <table border="0" width="100%">
 <tr>
-<td><b>Frontend</b></td>
-<td>███████████████████░ 95%</td>
+  <td width="30%"><b>Frontend</b></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-frontend.svg" width="100%"/></td>
+  <td align="right">95%</td>
 </tr>
 <tr>
-<td><b>React</b></td>
-<td>██████████████████░░ 90%</td>
+  <td><b>React</b></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-react.svg" width="100%"/></td>
+  <td align="right">90%</td>
 </tr>
 <tr>
-<td><b>JavaScript</b></td>
-<td>███████████████████░ 95%</td>
+  <td><b>JavaScript</b></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-javascript.svg" width="100%"/></td>
+  <td align="right">95%</td>
 </tr>
 <tr>
-<td><b>TypeScript</b></td>
-<td>███████████████░░░░░ 80%</td>
+  <td><b>TypeScript</b></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-typescript.svg" width="100%"/></td>
+  <td align="right">80%</td>
 </tr>
 <tr>
-<td><b>UI Engineering</b></td>
-<td>██████████████████░░ 90%</td>
+  <td><b>UI Engineering</b></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-ui.svg" width="100%"/></td>
+  <td align="right">90%</td>
 </tr>
 <tr>
-<td><b>Automation</b></td>
-<td>████████████████░░░░ 85%</td>
+  <td><b>Automation</b></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-automation.svg" width="100%"/></td>
+  <td align="right">85%</td>
 </tr>
 <tr>
-<td><b>Problem Solving</b></td>
-<td>██████████████████░░ 90%</td>
+  <td><b>Problem Solving</b></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-problemsolving.svg" width="100%"/></td>
+  <td align="right">90%</td>
 </tr>
 <tr>
-<td><b>Learning</b></td>
-<td>████████████████████ 100%</td>
+  <td><b>Learning</b></td>
+  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/skill-learning.svg" width="100%"/></td>
+  <td align="right">100%</td>
 </tr>
 </table>
 
