@@ -64,78 +64,57 @@
 
 <td width="50%" valign="top">
 
-<h3>👨‍💻 Developer Profile</h3>
+  <h3 align="center">👨‍💻 Developer Profile</h3>
 
-<p>
-  <samp>「 THE DEVELOPER WHO BUILDS THE NEXT GENERATION OF INTERFACES 」</samp>
-</p>
-
-* 🧑‍💻 **Role:** Frontend Developer
-* ⚡ **Specialty:** React.js & Modern UI
-* 🧩 **Current Path:** Next.js + Redux
-* 🧠 **Core Power:** JavaScript / TypeScript
-* 🛠️ **Engineering Style:** UI Development & Refactoring
-* 🧪 **Defense:** E2E / UI Automation
-* 🤖 **New Adventure:** AI + Frontend
-* 🚀 **Mission:** Build scalable & performant interfaces
-* 💎 **Passive Skill:** Continuous Learning
-
-<br>
-
-<p>
-  <samp>
-    ⚔️ "The world of code is vast. Keep building."
-  </samp>
-</p>
-
+  <p align="center"> <samp>「CRAFTING MODERN INTERFACES FOR THE NEXT GENERATION OF THE WEB」</samp> </p> <br> 
+  <ul>
+    <li>🧑‍💻 
+      <b>Role&nbsp;:</b> Frontend Developer · UI Engineer
+    </li>
+    <li>🎨 
+      <b>Specialty&nbsp;:</b> UI/UX · Modern Interfaces · Design Systems
+    </li>
+    <li>⚛️ 
+      <b>Core&nbsp;:</b> React.js · Next.js · Redux
+    </li>
+    <li>🧠 
+      <b>Languages&nbsp;:</b> JavaScript · TypeScript
+    </li>
+    <li>✨ 
+      <b>Interface Craft&nbsp;:</b> Responsive · Accessible · Pixel-Perfect
+    </li> 
+    <li>🛠️ 
+      <b>Engineering&nbsp;:</b> Architecture · Refactoring · Performance
+    </li> 
+    <li>🧪 
+      <b>Quality&nbsp;:</b> E2E Testing · UI Automation
+    </li> 
+    <li>🤖 
+      <b>Exploring&nbsp;:</b> AI × Frontend · Intelligent Interfaces
+    </li> 
+    <li>🚀 
+      <b>Mission&nbsp;:</b> Scalable · Performant · User-Centric
+    </li> 
+    <li>💎 
+      <b>Mindset&nbsp;:</b> Learn · Build · Refine · Repeat
+    </li> 
+  </ul> 
+  <br> 
+  <p align="center"> <samp>⚔️ DESIGN · ENGINEER · OPTIMIZE · EVOLVE</samp> </p>
+  <p align="center">
+    <img
+      src="./assets/Laptop.png"
+      width="700"
+      alt="Laptop"
+    />
+  </p>
 </td>
 
 <td width="50%" valign="top">
 
-<h3>📊 Developer Stats</h3>
+<h3 align="center">📊 Developer Stats</h3>
 
-<table border="0" width="100%">
-<tr>
-  <td width="30%"><b>Frontend</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-frontend.svg" width="100%"/></td>
-  <td align="right">95%</td>
-</tr>
-<tr>
-  <td><b>React</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-react.svg" width="100%"/></td>
-  <td align="right">90%</td>
-</tr>
-<tr>
-  <td><b>JavaScript</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-javascript.svg" width="100%"/></td>
-  <td align="right">95%</td>
-</tr>
-<tr>
-  <td><b>TypeScript</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-typescript.svg" width="100%"/></td>
-  <td align="right">80%</td>
-</tr>
-<tr>
-  <td><b>UI Engineering</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-ui.svg" width="100%"/></td>
-  <td align="right">90%</td>
-</tr>
-<tr>
-  <td><b>Automation</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-automation.svg" width="100%"/></td>
-  <td align="right">85%</td>
-</tr>
-<tr>
-  <td><b>Problem Solving</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-problemsolving.svg" width="100%"/></td>
-  <td align="right">90%</td>
-</tr>
-<tr>
-  <td><b>Learning</b></td>
-  <td><img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-learning.svg" width="100%"/></td>
-  <td align="right">100%</td>
-</tr>
-</table>
+<div style="display:flex; flex-direction:column; gap:16px; width:100%;"> <!-- Frontend --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>Frontend</b> <b>95%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-frontend.svg" width="100%" /> </div> <!-- React --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>React</b> <b>90%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-react.svg" width="100%" /> </div> <!-- JavaScript --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>JavaScript</b> <b>95%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-javascript.svg" width="100%" /> </div> <!-- TypeScript --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>TypeScript</b> <b>80%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-typescript.svg" width="100%" /> </div> <!-- UI Engineering --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>UI Engineering</b> <b>90%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-ui.svg" width="100%" /> </div> <!-- Automation --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>Automation</b> <b>85%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-automation.svg" width="100%" /> </div> <!-- Problem Solving --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>Problem Solving</b> <b>90%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-problemsolving.svg" width="100%" /> </div> <!-- Learning --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>Learning</b> <b>100%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-learning.svg" width="100%" /> </div> </div>
 
 <br>
 

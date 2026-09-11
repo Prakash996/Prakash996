@@ -1,0 +1,26 @@
+name: Going Merry Contribution Tracker
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate ship SVG
+        run: |
+          python scripts/generate_ship_svg.py \
+            --output output/going-merry.svg \
+            --github-user ${{ github.repository_owner }}
+
+      - name: Commit to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
