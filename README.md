@@ -258,46 +258,24 @@
   alt="Typing SVG"
 />
 
-<br><br>
+<br>
 
 <samp>「 SYSTEM LOG — GITHUB ACTIVITY 」</samp>
 
-<br><br>
+<br>
+<div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=Prakash996&theme=tokyonight&hide_border=true&background=111116&ring=A855F7&fire=06B6D4&currStreakLabel=A855F7&sideLabels=06B6D4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B5CF6"
-  alt="GitHub Streak Statistics"
-  width="49%"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Prakash996&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111116&title_color=A855F7&icon_color=06B6D4&text_color=FFFFFF"
-  alt="GitHub Stats"
-  width="45%"
-/>
+<h2>⚡ GitHub Activity</h2>
 
-<br><br>
+<p>
+  <strong>Prakash996</strong> · Building · Learning · Shipping 🚀
+</p>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash996&layout=compact&theme=tokyonight&hide_border=true&bg_color=111116&title_color=A855F7&text_color=FFFFFF&langs_count=8"
-  alt="Top Languages"
-  width="45%"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Prakash996&bg_color=111116&color=06B6D4&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=⚡%20DEVELOPER%20ACTIVITY"
-  alt="GitHub Activity Graph"
-  width="94%"
-/>
-
-<br><br>
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Prakash996&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"
-  alt="GitHub Trophies"
-  width="94%"
-/>
+<p>
+  <a href="https://github.com/Prakash996">
+    <img src="https://img.shields.io/badge/GitHub-Prakash996-111116?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+  </a>
+</p>
 
 </div>
 
@@ -419,29 +397,25 @@
   </samp>
 </p>
 
-<p>
-
-<a href="https://www.linkedin.com/in/Prakash996">
-  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat-square&logo=linkedin&logoColor=FFFFFF&labelColor=8B5CF6" alt="LinkedIn" />
-</a>
-
-<a href="https://x.com/Prakash996">
-  <img src="https://img.shields.io/badge/X-8B5CF6?style=flat-square&logo=x&logoColor=FFFFFF&labelColor=8B5CF6" alt="X" />
-</a>
-
-<a href="https://www.instagram.com/Prakash996">
-  <img src="https://img.shields.io/badge/Instagram-8B5CF6?style=flat-square&logo=instagram&logoColor=FFFFFF&labelColor=8B5CF6" alt="Instagram" />
-</a>
-
-<a href="https://www.youtube.com/@Prakash996">
-  <img src="https://img.shields.io/badge/YouTube-8B5CF6?style=flat-square&logo=youtube&logoColor=FFFFFF&labelColor=8B5CF6" alt="YouTube" />
-</a>
-
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-8B5CF6?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=8B5CF6" alt="Email" />
-</a>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/Prakash996">
+    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Prakash996">
+    <img src="https://img.shields.io/badge/X-8B5CF6?style=for-the-badge&logo=x&logoColor=white" height="32" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/Prakash996">
+    <img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" height="32" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@Prakash996">
+    <img src="https://img.shields.io/badge/YouTube-8B5CF6?style=for-the-badge&logo=youtube&logoColor=white" height="32" alt="YouTube" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="Email" />
+  </a>
 </p>
+
+
 
 <br>
 
