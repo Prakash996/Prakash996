@@ -8,7 +8,7 @@
 
 <p>
   <img
-    src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/output/going-merry.svg"
+    src="./output/going-merry.svg"
     width="100%"
     alt="Developer inspired background"
   />
@@ -71,62 +71,78 @@
     <li>🧑‍💻 
       <b>Role&nbsp;:</b> Frontend Developer · UI Engineer
     </li>
+    <br>
     <li>🎨 
       <b>Specialty&nbsp;:</b> UI/UX · Modern Interfaces · Design Systems
     </li>
+    <br>
     <li>⚛️ 
       <b>Core&nbsp;:</b> React.js · Next.js · Redux
     </li>
+    <br>
     <li>🧠 
       <b>Languages&nbsp;:</b> JavaScript · TypeScript
     </li>
+    <br>
     <li>✨ 
       <b>Interface Craft&nbsp;:</b> Responsive · Accessible · Pixel-Perfect
     </li> 
+    <br>
     <li>🛠️ 
       <b>Engineering&nbsp;:</b> Architecture · Refactoring · Performance
     </li> 
+    <br>
     <li>🧪 
       <b>Quality&nbsp;:</b> E2E Testing · UI Automation
     </li> 
+    <br>
     <li>🤖 
       <b>Exploring&nbsp;:</b> AI × Frontend · Intelligent Interfaces
-    </li> 
+    </li>
+    <br>
     <li>🚀 
       <b>Mission&nbsp;:</b> Scalable · Performant · User-Centric
-    </li> 
+    </li>
+    <br>
     <li>💎 
       <b>Mindset&nbsp;:</b> Learn · Build · Refine · Repeat
     </li> 
-  </ul> 
-  <br> 
-  <p align="center"> <samp>⚔️ DESIGN · ENGINEER · OPTIMIZE · EVOLVE</samp> </p>
-  <p align="center">
-    <img
-      src="./assets/Laptop.png"
-      width="700"
-      alt="Laptop"
-    />
-  </p>
+  </ul>
 </td>
+
 
 <td width="50%" valign="top">
 
 <h3 align="center">📊 Developer Stats</h3>
 
-<div style="display:flex; flex-direction:column; gap:16px; width:100%;"> <!-- Frontend --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>Frontend</b> <b>95%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-frontend.svg" width="100%" /> </div> <!-- React --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>React</b> <b>90%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-react.svg" width="100%" /> </div> <!-- JavaScript --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>JavaScript</b> <b>95%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-javascript.svg" width="100%" /> </div> <!-- TypeScript --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>TypeScript</b> <b>80%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-typescript.svg" width="100%" /> </div> <!-- UI Engineering --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>UI Engineering</b> <b>90%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-ui.svg" width="100%" /> </div> <!-- Automation --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>Automation</b> <b>85%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-automation.svg" width="100%" /> </div> <!-- Problem Solving --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>Problem Solving</b> <b>90%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-problemsolving.svg" width="100%" /> </div> <!-- Learning --> <div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>Learning</b> <b>100%</b> </div> <img src="https://raw.githubusercontent.com/Prakash996/Prakash996/main/assets/bars/skill-learning.svg" width="100%" /> </div> </div>
-
-<br>
-
-<p>
-  <samp>
-    ⚡ FOCUS: MODERN FRONTEND
-  </samp>
-</p>
+<div style="display:flex; flex-direction:column; gap:16px; width:100%;"> 
+<!-- Frontend --> 
+<div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>Frontend</b> <b>95%</b> </div> <img src="./assets/bars/skill-frontend.svg" width="100%" /> </div> 
+<!-- React --> 
+<div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>React</b> <b>90%</b> </div> <img src="./assets/bars/skill-react.svg" width="100%" /> </div> 
+<!-- JavaScript --> 
+<div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>JavaScript</b> <b>95%</b> </div> <img src="./assets/bars/skill-javascript.svg" width="100%" /> </div> 
+<!-- TypeScript --> 
+<div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>TypeScript</b> <b>80%</b> </div> <img src="./assets/bars/skill-typescript.svg" width="100%" /> </div> 
+<!-- UI Engineering --> 
+<div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>UI Engineering</b> <b>90%</b> </div> <img src="./assets/bars/skill-ui.svg" width="100%" /> </div> 
+<!-- Automation --> 
+<div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>Automation</b> <b>85%</b> </div> <img src="./assets/bars/skill-automation.svg" width="100%" /> </div> 
+<!-- Problem Solving --> 
+<div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>Problem Solving</b> <b>90%</b> </div> <img src="./assets/bars/skill-problemsolving.svg" width="100%" /> </div> 
+<!-- Learning --> 
+<div> <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:6px;"> <b>Learning</b> <b>100%</b> </div> <img src="./assets/bars/skill-learning.svg" width="100%" /> </div> </div>
 
 </td>
 
 </tr>
+<div align="center">
+  <br>
+  <samp>⚔️ DESIGN · ENGINEER · OPTIMIZE · EVOLVE</samp>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <samp>⚡ FOCUS: MODERN FRONTEND</samp>
+  <br><br>
+</div>
 </table>
 
 </div>
@@ -235,25 +251,56 @@
 
 ## 📊 DEVELOPER ANALYTICS
 
-<p>
-  <samp>「 SYSTEM LOG — GITHUB ACTIVITY 」</samp>
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Prakash996&theme=tokyonight&hide_border=true&background=111116&ring=A855F7&fire=06B6D4&currStreakLabel=A855F7&sideLabels=06B6D4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B5CF6"
-    alt="GitHub Streak Statistics"
-    width="49%"
-  />
-</p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&background=111116&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prakash;Frontend+Engineer+%7C+React+%26+Node.js"
+  alt="Typing SVG"
+/>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Prakash996&bg_color=111116&color=06B6D4&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=⚡%20DEVELOPER%20ACTIVITY"
-    alt="GitHub Activity Graph"
-    width="94%"
-  />
-</p>
+<br><br>
+
+<samp>「 SYSTEM LOG — GITHUB ACTIVITY 」</samp>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com?user=Prakash996&theme=tokyonight&hide_border=true&background=111116&ring=A855F7&fire=06B6D4&currStreakLabel=A855F7&sideLabels=06B6D4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B5CF6"
+  alt="GitHub Streak Statistics"
+  width="49%"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Prakash996&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111116&title_color=A855F7&icon_color=06B6D4&text_color=FFFFFF"
+  alt="GitHub Stats"
+  width="45%"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash996&layout=compact&theme=tokyonight&hide_border=true&bg_color=111116&title_color=A855F7&text_color=FFFFFF&langs_count=8"
+  alt="Top Languages"
+  width="45%"
+/>
+
+<br><br>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Prakash996&bg_color=111116&color=06B6D4&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=⚡%20DEVELOPER%20ACTIVITY"
+  alt="GitHub Activity Graph"
+  width="94%"
+/>
+
+<br><br>
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Prakash996&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"
+  alt="GitHub Trophies"
+  width="94%"
+/>
+
+</div>
+
 
 </div>
 
@@ -418,7 +465,7 @@
 
 <p>
   <img
-    src="./assets/one-piece-profile-bg.png"
+    src="./assets/one-piece-profile-bg.svg"
     width="100%"
     alt="Developer footer background"
   />

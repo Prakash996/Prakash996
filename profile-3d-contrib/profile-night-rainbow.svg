@@ -1,0 +1,78 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1020"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#090C14"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A3E635"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <g opacity="0.18">
+    <circle cx="120" cy="80" r="110" fill="#8B5CF6"/>
+    <circle cx="980" cy="210" r="150" fill="#06B6D4"/>
+    <circle cx="760" cy="60" r="120" fill="#A78BFA"/>
+  </g>
+
+  <g>
+    <rect x="80" y="70" width="1040" height="180" rx="20" fill="#0F172A" stroke="rgba(148,163,184,0.2)"/>
+    <g fill="#1E293B" stroke="#334155" stroke-width="1.5">
+      <rect x="110" y="105" width="18" height="18" rx="4"/>
+      <rect x="138" y="105" width="18" height="18" rx="4"/>
+      <rect x="166" y="105" width="18" height="18" rx="4"/>
+      <rect x="194" y="105" width="18" height="18" rx="4"/>
+      <rect x="222" y="105" width="18" height="18" rx="4"/>
+      <rect x="250" y="105" width="18" height="18" rx="4"/>
+      <rect x="278" y="105" width="18" height="18" rx="4"/>
+      <rect x="306" y="105" width="18" height="18" rx="4"/>
+
+      <rect x="110" y="133" width="18" height="18" rx="4"/>
+      <rect x="138" y="133" width="18" height="18" rx="4"/>
+      <rect x="166" y="133" width="18" height="18" rx="4"/>
+      <rect x="194" y="133" width="18" height="18" rx="4"/>
+      <rect x="222" y="133" width="18" height="18" rx="4"/>
+      <rect x="250" y="133" width="18" height="18" rx="4"/>
+      <rect x="278" y="133" width="18" height="18" rx="4"/>
+      <rect x="306" y="133" width="18" height="18" rx="4"/>
+
+      <rect x="110" y="161" width="18" height="18" rx="4"/>
+      <rect x="138" y="161" width="18" height="18" rx="4"/>
+      <rect x="166" y="161" width="18" height="18" rx="4"/>
+      <rect x="194" y="161" width="18" height="18" rx="4"/>
+      <rect x="222" y="161" width="18" height="18" rx="4" fill="url(#glow)"/>
+      <rect x="250" y="161" width="18" height="18" rx="4" fill="url(#glow)"/>
+      <rect x="278" y="161" width="18" height="18" rx="4" fill="url(#glow)"/>
+      <rect x="306" y="161" width="18" height="18" rx="4" fill="url(#glow)"/>
+
+      <rect x="110" y="189" width="18" height="18" rx="4"/>
+      <rect x="138" y="189" width="18" height="18" rx="4" fill="url(#glow)"/>
+      <rect x="166" y="189" width="18" height="18" rx="4" fill="url(#glow)"/>
+      <rect x="194" y="189" width="18" height="18" rx="4" fill="url(#glow)"/>
+      <rect x="222" y="189" width="18" height="18" rx="4" fill="url(#glow)"/>
+      <rect x="250" y="189" width="18" height="18" rx="4"/>
+      <rect x="278" y="189" width="18" height="18" rx="4"/>
+      <rect x="306" y="189" width="18" height="18" rx="4"/>
+    </g>
+
+    <g>
+      <rect x="390" y="100" width="300" height="18" rx="9" fill="#0B1120"/>
+      <rect x="390" y="100" width="230" height="18" rx="9" fill="url(#glow)"/>
+      <rect x="390" y="146" width="350" height="18" rx="9" fill="#0B1120"/>
+      <rect x="390" y="146" width="286" height="18" rx="9" fill="url(#glow)"/>
+      <rect x="390" y="192" width="280" height="18" rx="9" fill="#0B1120"/>
+      <rect x="390" y="192" width="210" height="18" rx="9" fill="url(#glow)"/>
+    </g>
+
+    <g fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif">
+      <text x="90" y="52" font-size="18" font-weight="700">Development streak</text>
+      <text x="920" y="130" font-size="18" font-weight="700" fill="#A5B4FC">+ 42 commits</text>
+      <text x="920" y="165" font-size="18" font-weight="700" fill="#67E8F9">UI + DX</text>
+      <text x="920" y="200" font-size="18" font-weight="700" fill="#86EFAC">steady growth</text>
+    </g>
+  </g>
+</svg>
