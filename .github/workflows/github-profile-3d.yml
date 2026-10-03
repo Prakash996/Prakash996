@@ -1,31 +1,36 @@
-name: GitHub Profile 3D Contribution Calendar
+# Generates the 3D contribution "city" using yoshi389111/github-profile-3d-contrib.
+# Structure follows the workflow documented in that project's README.
+# First run: Actions -> GitHub-Profile-3D-Contrib -> Run workflow.
+# Output images are committed under profile-3d-contrib/ (e.g. profile-night-view.svg).
+name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
+  schedule: # 03:00 JST == 18:00 UTC (daily refresh)
     - cron: "0 18 * * *"
   workflow_dispatch:
 
+# The job commits the generated images back to this repository.
 permissions:
   contents: write
-
-concurrency:
-  group: github-profile-3d
-  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
-      - uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Prakash996
-      - name: Commit and push generated calendar
+      - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A profile-3d-contrib/
-          if git commit -m "generated"; then
+          git add -A .
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "generated"
             git push
           fi
