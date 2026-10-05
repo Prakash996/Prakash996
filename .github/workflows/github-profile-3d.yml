@@ -1,36 +1,33 @@
-# Generates the 3D contribution "city" using yoshi389111/github-profile-3d-contrib.
-# Structure follows the workflow documented in that project's README.
-# First run: Actions -> GitHub-Profile-3D-Contrib -> Run workflow.
-# Output images are committed under profile-3d-contrib/ (e.g. profile-night-view.svg).
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC (daily refresh)
-    - cron: "0 18 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "0 18 * * *"   # every day, 18:00 UTC
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
 
-# The job commits the generated images back to this repository.
 permissions:
-  contents: write
+  contents: write           # needed so the workflow can commit the generated SVGs
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Prakash996
-      - name: Commit & Push
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit and push generated images
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No changes to commit."
           else
-            git commit -m "generated"
+            git commit -m "chore: update 3D contribution graph"
             git push
           fi

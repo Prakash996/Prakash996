@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="440" height="84" viewBox="0 0 440 84" role="img" aria-labelledby="lk3-t lk3-d" font-family="'Segoe UI Variable Display','Segoe UI','SF Pro Display','Helvetica Neue',Inter,system-ui,-apple-system,Arial,sans-serif"><title id="lk3-t">Instagram: @prakash_jakkula</title><desc id="lk3-d">Link card for Instagram, @prakash_jakkula.</desc><defs><clipPath id="lk3-c"><rect x="1" y="1" width="438" height="82" rx="19"/></clipPath><linearGradient id="lk3-s" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#10B981" stop-opacity="0.28"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><style>
+.p1,.p2,.p3{animation:rise linear infinite}
+.p1{animation-duration:9s}.p2{animation-duration:13s}.p3{animation-duration:18s}
+@keyframes rise{0%{transform:translateY(0);opacity:0}18%{opacity:.85}82%{opacity:.85}100%{transform:translateY(-84px);opacity:0}}
+.aur{animation:drift 22s ease-in-out infinite}.a2{animation-duration:29s;animation-direction:reverse}
+@keyframes drift{0%,100%{transform:translate(0,0)}50%{transform:translate(46px,26px)}}
+.tw{animation:twinkle 4s ease-in-out infinite}
+@keyframes twinkle{0%,100%{opacity:.18}50%{opacity:.95}}
+.gl{animation:float 16s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translate(0,0)}50%{transform:translate(10px,-14px)}}
+.neon{animation:flick 7s steps(1) infinite}
+@keyframes flick{0%,100%{opacity:1}46%{opacity:1}47%{opacity:.78}48%{opacity:1}71%{opacity:1}72%{opacity:.82}73%{opacity:1}}
+.shine{animation:shine 6s ease-in-out infinite}
+@keyframes shine{0%,62%{transform:translateX(-140px)}100%{transform:translateX(560px)}}
+.bob{animation:bob 3.2s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(5px)}}
+@media (prefers-reduced-motion: reduce){.p1,.p2,.p3,.aur,.tw,.gl,.neon,.shine,.bob{animation:none!important}}
+</style></defs><rect x="1" y="1" width="438" height="82" rx="19" fill="#FFFFFF" fill-opacity="1" stroke="#047857" stroke-opacity="0.6"/><g clip-path="url(#lk3-c)"><rect class="shine" style="animation-delay:-3.9s" x="0" y="0" width="90" height="84" fill="url(#lk3-s)" transform="skewX(-16)"/></g><rect x="16" y="16" width="52" height="52" rx="15" fill="#F2F8F4" stroke="#047857" stroke-opacity=".6"/><g transform="translate(31.65 31.65) scale(0.8624999999999999)" fill="none" stroke="#0C1D16" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5.5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.2" cy="6.8" r="1.25" fill="#0C1D16" stroke="none"/></g><text x="86" y="38" font-size="18" font-weight="700" fill="#0C1D16">Instagram</text><text x="86" y="61" font-size="13.5" fill="#52695D">@prakash_jakkula</text><g transform="translate(398.55 32.55) scale(0.7875000000000001)" fill="none" stroke="#047857" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></g></svg>
